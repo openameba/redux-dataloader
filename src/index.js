@@ -15,6 +15,5 @@ export {
   exponentialWait,
   fibonacciWait,
   incrementingWait,
-  noWait,
   randomWait,
 } from './waitStrategies';
